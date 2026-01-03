@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashika Mohan Mungath
 
-<!--
-**ASHIKAMOHAN/ASHIKAMOHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science (Distinction) | 📊 Data Analyst | 🌌 Aspiring Astrophysics Researcher  
 
-Here are some ideas to get you started:
+I combine **data science, machine learning, and scientific computing** to solve complex problems in **real-world and astronomical datasets**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Interests
+- Machine learning & statistical modelling  
+- Astronomy, galaxy surveys & cosmology  
+- Forecasting & trend analysis in time-series data  
+
+---
+
+## 🧠 Skills
+**Languages:** Python, SQL  
+**Libraries:** Scikit-learn, NumPy, Pandas, TensorFlow/Keras, Matplotlib  
+**Tools:** Jupyter, Git, Power BI / Tableau
+
+---
+
+## 📂 Featured Projects
+
+### 🌠 Galaxy/Universe Data Modelling  
+Machine learning models predicting physical attributes from survey data, focusing on robustness & uncertainty.
+
+📁 Repo: `galaxy-distance-ml`
+
+---
+
+### 📈 FX Sales Forecasting (Industry)
+Branch-level forecasting using time-series models and gradient boosting.
+
+📁 Repo: `fx-sales-forecasting`
+
+---
+
+## 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/ashika-mohan-m  
+Portfolio: https://github.com/ASHIKAMOHAN  
